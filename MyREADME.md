@@ -21,7 +21,8 @@
    3. Open `index.html` in your browser to view the app.
 
    ## Screenshots
-    ![App Screenshot](./Screenshot.png)
+    ![App Screenshot](https://github.com/user-attachments/assets/f870e17d-0ccf-49bd-ab84-d06d9fc18f10)
+
    ## License
    This project is open-source and available under the [MIT License](LICENSE).
 
