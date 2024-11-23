@@ -20,8 +20,8 @@
    2. Open the project folder in Visual Studio Code.
    3. Open `index.html` in your browser to view the app.
 
-   ## Screenshots
-    ![App Screenshot](https://github.com/user-attachments/assets/f870e17d-0ccf-49bd-ab84-d06d9fc18f10)
+   ## Screenshots  
+   ![Screenshot](https://github.com/user-attachments/assets/fdb66bcd-59e5-4d94-a1b9-19766c77e677)
 
    ## License
    This project is open-source and available under the [MIT License](LICENSE).
